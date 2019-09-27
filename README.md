@@ -15,3 +15,7 @@ synth_runner.R - function to conduct permutation tests
 synth_sens.R - script to conduct synthetic control sensitivity analysis    
 synth_unit.R - function to run the synthetic control for one state     
 synth_varsel.R - script to run the variable selection procedure     
+
+
+
+
