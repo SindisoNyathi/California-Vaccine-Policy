@@ -1,13 +1,14 @@
-# California Vaccine Policy
-California Vaccine Policy Data and Code
+# __California Vaccine Policy Project Data and Code.__
 
-Project Contents. 
+## _Contents._ 
 
-Analysis Plan - word document briefly outlining the project goals and analysis plan.
+### Written Files
+Analysis Plan.docx - word document briefly outlining the project goals and analysis plan.
 
-AggSynthCon - primary input data file containing Vaccine Coverage data for 2011 to 2017, as well as covariate data.
-Covariates - input data file containing covariate pool.
+### Data Files
+AggSynthCon.xlsx - primary input data file containing Vaccine Coverage data for 2011 to 2017, as well as covariate data. Codebook is included in file. 
 
+### Code Files
 synth_core.R - core synthetic control function
 synth_parent.R - parent synthetic control function for variable selection
 synth_plots.R - function to plot synthetic control results
