@@ -11,7 +11,7 @@ AggSynthCon.xlsx - primary input data file containing Vaccine Coverage data for 
 ### Code Files
 synth_core.R - core synthetic control function
 synth_parent.R - parent synthetic control function for variable selection
-synth_runner.R - function to conduct permutation tests
-synth_sens.R - script to conduct synthetic control sensitivity analysis
-synth_unit.R - function to run the synthetic control for one state
-synth_varsel.R - script to run the variable selection procedure
+synth_runner.R - function to conduct permutation tests         
+synth_sens.R - script to conduct synthetic control sensitivity analysis    
+synth_unit.R - function to run the synthetic control for one state     
+synth_varsel.R - script to run the variable selection procedure     
